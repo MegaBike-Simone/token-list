@@ -69440,6 +69440,22 @@
         "twitter": "https://twitter.com/plutusfi",
         "website": "https://plutusfi.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GH4XJTYtWE9CgGc6B99upEKMwcg2hgg6V1XQFpiiRE2t",
+      "symbol": "CAR",
+      "name": "CAR",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MegaBike-Simone/car/main/car-logo.png",
+      "tags": [
+        "car",
+        "token",
+        "megabike"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/car"
+      }
     }
   ],
   "version": {
